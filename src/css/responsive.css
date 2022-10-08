@@ -1,0 +1,13 @@
+@media(max-width: 720px){
+    .header{
+       flex-direction: column;
+    }
+    .menu{
+        font-size: 40px;
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .menu li{
+        padding: 30px;
+    }
+}
